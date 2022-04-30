@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔗 - https://www.linkedin.com/in/anna-emmenegger-b352a41b4
+
 <!--
 **AnnaEmmenegger-boop/AnnaEmmenegger-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
