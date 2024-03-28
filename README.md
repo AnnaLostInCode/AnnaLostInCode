@@ -1,38 +1,24 @@
 ### Hi there 👋
 
-🔗 https://www.linkedin.com/in/anna-emmenegger-b352a41b4
+- 🔗 [Twitter](https://twitter.com/AnnaL0stInSpace) 
 
-💻 Technologies
+⚙ Technologies
 -------------------------------------
-    Java
-    Spring, Spring Boot, Lombok 
-    REST / SOAP 
-    JDBC, JPA, JOOQ 
-    Messaging (MQ Messaging / Kafka) 
-    JUnit, AssertJ, Mockito 
-    
-🧩 Methods
+- Java, Spring Boot, Maven
+- MongoDB, PostgreSQL
+- Basics of Python, C#
+
+📚 Education
 -------------------------------------
-    Safe 
-    Scrum 
-    Kanban 
-    DevOps 
-    CI / CD 
-    Test Driven Development 
-    Clean Code, Best Practices 
-    Mikroservice Organisation 
+| Year | Education |
+| ---- | --------- |
+| 2008 - 2018 | Grundschule |
+| 2018 - 2022 | Informatiker EFZ (GIBB) |
+| 2022 - 2024 | Berufsmaturität 2 TALS |
 
-<!--
-**AnnaEmmenegger-boop/AnnaEmmenegger-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Employment
+-------------------------------------
+| Year | Employment |
+| ---- | --------- |
+| 2018 - 2022 | Lehre Informatiker EFZ @ SBB 🚂|
+| 2022 - 2024 | BizDevOps @ SBB 🚂 |
