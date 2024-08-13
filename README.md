@@ -21,4 +21,4 @@
 | Year | Employment |
 | ---- | --------- |
 | 2018 - 2022 | Lehre Informatiker EFZ @ SBB 🚂|
-| 2022 - 2024 | BizDevOps @ SBB 🚂 |
+| 2022 - Now | BizDevOps @ SBB 🚂 |
