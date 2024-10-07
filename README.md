@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔗 [Twitter](https://twitter.com/AnnaL0stInSpace) 
+- 🔗 [Twitter](https://twitter.com/AnnaL0stInSpace)
+- 🔗 [Github Pages](https://annalostincode.github.io/)
 
 ⚙ Technologies
 -------------------------------------
 - Java, Spring Boot, Maven
 - MongoDB, PostgreSQL
 - Basics of Python, C#
+- REST and Kafka
 
 📚 Education
 -------------------------------------
