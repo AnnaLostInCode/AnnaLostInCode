@@ -1,2 +1,2 @@
 ### Hi there 👋
-🔗 [Github Pages](https://annalostincode.github.io/)
+🔗 [My Website](https://annalostincode.github.io/)
